@@ -1,3 +1,4 @@
 #ignore all .txt files
 *.txt
 #ignore secret recipe.htm
+*secret recipe.htm
